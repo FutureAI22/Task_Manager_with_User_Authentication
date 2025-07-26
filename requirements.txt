@@ -1,0 +1,5 @@
+# No external dependencies required for the basic CLI Task Manager.
+# Add any third-party libraries here if you extend the project.
+# Example:
+# click==8.0.1
+# bcrypt==3.2.0
